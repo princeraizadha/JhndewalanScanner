@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <dimen name="height160">160dp</dimen>
+    <dimen name="height130">130dp</dimen>
+    <dimen name="height100">100dp</dimen>
+    <dimen name="height80">80dp</dimen>
+    <!--prince Declare-->
+    <dimen name="activity_vertical_margin">10dp</dimen>
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+
+    <dimen name="margin2">2dp</dimen>
+    <dimen name="margin5">5dp</dimen>
+    <dimen name="margin8">8dp</dimen>
+    <dimen name="margin10">10dp</dimen>
+    <dimen name="margin16">16dp</dimen>
+    <dimen name="margin20">20dp</dimen>
+    <dimen name="margin30">30dp</dimen>
+    <dimen name="margin35">35dp</dimen>
+    <dimen name="margin40">40dp</dimen>
+    <dimen name="margin50">50dp</dimen>
+    <dimen name="action_button_padding">0dp</dimen>
+
+    <dimen name="size7">7sp</dimen>
+    <dimen name="size10">10sp</dimen>
+    <dimen name="size12">12sp</dimen>
+    <dimen name="size13">13sp</dimen>
+    <dimen name="size14">14sp</dimen>
+    <dimen name="size16">16sp</dimen>
+    <dimen name="size18">18sp</dimen>
+    <dimen name="size20">20sp</dimen>
+    <dimen name="size22">22sp</dimen>
+    <dimen name="size26">26sp</dimen>
+    <dimen name="design_navigation_icon_size" tools:override="true">18dp</dimen>
+    <dimen name="article_size">21dp</dimen>
+</resources>

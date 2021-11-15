@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryMy">#9c0e0d</color>
+    <!--<color name="colorPrimary">#f44336</color>-->
+    <color name="colorPrimary">#d4442b</color>
+    <color name="colorPrimaryDark">#660000</color>
+    <color name="colorAccent">#d4442b</color>
+    <color name="transparent">#00000000</color>
+    <color name="background">#f6f8f8</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0d92b1</color>
+    <color name="yellow">#ffbb06</color>
+    <color name="icons_color">#8d8c8d</color>
+    <color name="grey">#ececec</color>
+
+    <color name="green_bright">#009886</color>
+
+    <color name="view_deatils">#0a8282</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="Darkgrey">#808080</color>
+    <color name="footer_bg">#ffffff</color>
+    <color name="color_footer_txt">#282828</color>
+    <color name="colorPurple">#445CA2</color>
+    <color name="gradient1">#fe2d42</color>
+    <color name="gradient2">#fe612e</color>
+    <color name="color_txt">#313131</color>
+    <color name="gradient3">#ff9d18</color>
+    <color name="color_footer_bg">#1c1f23</color>
+    <color name="color_indicator_inactive">#6f757b</color>
+    <color name="color_footer_separator_light">#292c31</color>
+    <color name="color_footer_separator_dark">#111316</color>
+    <color name="aaaaaa">#d1d1d1</color>
+</resources>

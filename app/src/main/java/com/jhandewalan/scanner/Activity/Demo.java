@@ -15,7 +15,7 @@ import com.jhandewalan.scanner.R;
 import com.jhandewalan.scanner.Support.CharchitDecription;
 import com.jhandewalan.scanner.Support.CryptoHandler;
 
-public class Demo extends AppCompatActivity {
+public class  Demo extends AppCompatActivity {
 
     Button btn_press, btn_decrypt;
     TextView txt_dummy;
